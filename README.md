@@ -6,7 +6,7 @@ An interactive photo gallery built with HTML, CSS, and JavaScript.
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/Auxile-Isaac/COA_Task_Force.git
 
 2. Open `index.html` in your browser.
 
