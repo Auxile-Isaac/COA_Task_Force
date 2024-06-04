@@ -1,0 +1,54 @@
+body, html {
+  margin: 0;
+  height: 100%;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: "";
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 38px;
+
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.image_wrap {
+  position: relative;
+  display: inline-block;
+  margin: 1px;
+}
+
+.image {
+  display: block;
+}
+
+.img_details {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: white; 
+  margin: 30px; 
+}
+
+.img_details h1, .img_details h5, .img_details h3 {
+  margin: 0;
+}
+
